@@ -71,10 +71,3 @@ A Postman collection is available for testing the API endpoints:
 * `package.json` - Project metadata and scripts
 * `tsconfig.json` - TypeScript compiler configuration
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is open-source and available under the MIT License.
